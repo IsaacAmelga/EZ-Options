@@ -1,0 +1,6 @@
+flask==2.0.1
+pythalesians==1.1.14
+QuantLib==1.22
+QSTK==0.2.8
+rPython==0.0.4
+ibapi==9.76.1
